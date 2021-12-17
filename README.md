@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-| [![trophy](https://github-profile-trophy.vercel.app/?username=sapphi-red&column=4&no-frame=true&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) |  |
-| --- | --- |
-| [![sapphi-red's github stats](https://github-readme-stats.vercel.app/api?username=sapphi-red&count_private=true&show_icons=true&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sapphi-red&langs_count=10&layout=compact&exclude_repo=piscon2019,piscon2019-2,go-traq&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
-
-🏠: https://green.sapphi.red/  
-サークルでのブログ記事: https://trap.jp/author/sappi_red/
+<img src="https://github.com/sapphi-red/sapphi-red/blob/main/github-metrics.svg" alt="Metrics" width="100%">
 
 <!--
 **sapphi-red/sapphi-red** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
