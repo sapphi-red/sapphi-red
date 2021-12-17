@@ -1,10 +1,11 @@
 name: Metrics
 on:
-  # Schedule updates (each hour)
-  schedule: [{cron: "0 * * * *"}]
-  # Lines below let you run workflow manually and on each commit (optional)
+  schedule:
+    - cron: '0 0/3 * * *'
   workflow_dispatch:
-  push: {branches: ["main"]}
+  push:
+    branches:
+      - main
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -46,7 +47,6 @@ jobs:
           plugin_rss_source: https://trap.jp/author/sappi_red/rss/
           repositories_skipped: piscon2019,piscon2019-2,go-traq
           use_prebuilt_image: yes
-          output_action: pull-request
 
       - name: Metrics 2
         uses: lowlighter/metrics@latest
@@ -68,5 +68,3 @@ jobs:
           plugin_isocalendar_duration: half-year
           repositories_skipped: piscon2019,piscon2019-2,go-traq
           use_prebuilt_image: yes
-          output_action: pull-request-squash
-
