@@ -19,7 +19,6 @@ jobs:
           user: sapphi-red
           template: classic
           base: header, activity, community, repositories, metadata
-          config_display: columns
           config_timezone: Asia/Tokyo
           config_twemoji: yes
           plugin_achievements: yes
