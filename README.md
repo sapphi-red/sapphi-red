@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <div>
-  <img src="https://github.com/sapphi-red/sapphi-red/blob/main/metrics1.svg" />
-  <img src="https://github.com/sapphi-red/sapphi-red/blob/main/metrics2.svg" />
+  <img src="https://github.com/sapphi-red/sapphi-red/blob/main/metrics1.svg" width="48%" />
+  <img src="https://github.com/sapphi-red/sapphi-red/blob/main/metrics2.svg" width="48%" />
 </div>
 
 <!--
