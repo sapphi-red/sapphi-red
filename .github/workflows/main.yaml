@@ -18,7 +18,7 @@ jobs:
           # Options
           user: sapphi-red
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, repositories, metadata
           config_timezone: Asia/Tokyo
           config_twemoji: yes
           plugin_achievements: yes
@@ -47,7 +47,6 @@ jobs:
           plugin_notable: yes
           plugin_notable_filter: stars:>100
           plugin_notable_from: organization
-          plugin_notable_repositories: yes
           plugin_rss: yes
           plugin_rss_limit: 4
           plugin_rss_source: https://trap.jp/author/sappi_red/rss/
