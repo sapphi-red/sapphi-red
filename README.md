@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-![Metrics](https://github.com/sapphi-red/sapphi-red/blob/main/github-metrics.svg)
+<div>
+  <img src="https://github.com/sapphi-red/sapphi-red/blob/main/metrics1.svg" />
+  <img src="https://github.com/sapphi-red/sapphi-red/blob/main/metrics2.svg" />
+</div>
 
 <!--
 **sapphi-red/sapphi-red** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
