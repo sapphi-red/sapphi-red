@@ -41,6 +41,9 @@ jobs:
           plugin_notable: yes
           plugin_notable_filter: stars:>100
           plugin_notable_from: organization
+          plugin_rss: yes
+          plugin_rss_limit: 4
+          plugin_rss_source: https://trap.jp/author/sappi_red/rss/
           repositories_skipped: piscon2019,piscon2019-2,go-traq
 
   github-metrics2:
@@ -55,6 +58,7 @@ jobs:
           # Options
           filename: metrics2.svg
           user: sapphi-red
+          base: ""
           config_timezone: Asia/Tokyo
           config_twemoji: yes
           plugin_achievements: yes
@@ -63,7 +67,4 @@ jobs:
           plugin_achievements_threshold: C
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-          plugin_rss: yes
-          plugin_rss_limit: 4
-          plugin_rss_source: https://trap.jp/author/sappi_red/rss/
           repositories_skipped: piscon2019,piscon2019-2,go-traq
