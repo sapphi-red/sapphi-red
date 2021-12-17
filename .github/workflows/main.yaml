@@ -6,11 +6,11 @@ on:
   workflow_dispatch:
   push: {branches: ["main"]}
 jobs:
-  github-metrics1:
+  github-metrics:
     runs-on: ubuntu-latest
     steps:
-      # See action.yml for all options
-      - uses: lowlighter/metrics@latest
+      - name: Metrics 1
+        uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
@@ -45,12 +45,11 @@ jobs:
           plugin_rss_limit: 4
           plugin_rss_source: https://trap.jp/author/sappi_red/rss/
           repositories_skipped: piscon2019,piscon2019-2,go-traq
+          use_prebuilt_image: yes
+          output_action: pull-request
 
-  github-metrics2:
-    runs-on: ubuntu-latest
-    steps:
-      # See action.yml for all options
-      - uses: lowlighter/metrics@latest
+      - name: Metrics 2
+        uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
@@ -68,3 +67,6 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           repositories_skipped: piscon2019,piscon2019-2,go-traq
+          use_prebuilt_image: yes
+          output_action: pull-request-squash
+
