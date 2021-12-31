@@ -42,6 +42,7 @@ jobs:
           plugin_notable: yes
           plugin_notable_filter: stars:>100
           plugin_notable_from: organization
+          plugin_notable_indepth: yes
           plugin_rss: yes
           plugin_rss_limit: 4
           plugin_rss_source: https://trap.jp/author/sappi_red/rss/
