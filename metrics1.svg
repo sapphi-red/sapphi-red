@@ -1879,17 +1879,17 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 76.88317896623842%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="width: 76.85252232681631%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             <span class="value">96%</span>
                         </div>
                         <div class="entry">
                             <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 2.786973409023006%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">3%</span>
+                            <div class="bar" style="width: 2.8143857108375574%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">4%</span>
                         </div>
                         <div class="entry">
                             <span class="name">CSS</span>
-                            <div class="bar" style="width: 0.3298476247385718%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.333091962346126%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
@@ -1902,6 +1902,15 @@
     </h2>
                 <div class="row fill-width">
                     <section>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Web Speed Hackathon 2021 miniでほぼ満点を出しました</div>
+                                <div class="date">2 Jan 2022</div>
+                            </div>
+                        </div>
                         <div class="field rss">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
@@ -1929,21 +1938,12 @@
                                 <div class="date">17 Mar 2021</div>
                             </div>
                         </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">traQをVue 3に移行しました</div>
-                                <div class="date">2 Feb 2021</div>
-                            </div>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Jan 2022, 09:38:14 (timezone Asia/Tokyo) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 2 Jan 2022, 12:12:28 (timezone Asia/Tokyo) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
