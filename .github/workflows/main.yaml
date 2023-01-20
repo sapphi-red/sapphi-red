@@ -21,7 +21,7 @@ jobs:
           user: sapphi-red
           base: header, activity, repositories, metadata
           config_timezone: Asia/Tokyo
-          config_twemoji: no # connect ETIMEDOUT 151.139.237.124:443 happens due to https://github.com/twitter/twemoji/issues/556
+          config_twemoji: yes
           plugin_habits: yes
           plugin_habits_charts: yes
           plugin_habits_days: 14
