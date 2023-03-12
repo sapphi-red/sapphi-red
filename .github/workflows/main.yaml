@@ -25,6 +25,18 @@ jobs:
           repositories_skipped: piscon2019,piscon2019-2,go-traq
           use_prebuilt_image: yes
 
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 2%
+
           plugin_lines: yes
 
           plugin_notable: yes
@@ -56,18 +68,6 @@ jobs:
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_from: 200
-
-          plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_categories: markup, programming
-          plugin_languages_colors: github
-          plugin_languages_details: bytes-size, percentage
-          plugin_languages_limit: 8
-          plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 14
-          plugin_languages_recent_load: 300
-          plugin_languages_sections: most-used
-          plugin_languages_threshold: 2%
 
           plugin_achievements: yes
           plugin_achievements_display: compact
