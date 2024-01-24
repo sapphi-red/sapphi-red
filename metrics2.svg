@@ -1658,7 +1658,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="70.26666666666667 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="71.3 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g fill="none" fill-rule="evenodd">
@@ -1678,10 +1678,10 @@
                                     <span class="prefix">Great</span>
                                     chatter
                                     <div class="value-wrapper">
-                                        <div class="value">336</div>
+                                        <div class="value">338</div>
                                     </div>
                                 </div>
-                                <div class="text">Participated in discussions 336 times</div>
+                                <div class="text">Participated in discussions 338 times</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -1760,7 +1760,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 443k out of 64.1m repositories</span>
+                                    <span class="gh">ranked 443k out of 62.9m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">27</div>
                                     </div>
@@ -1801,7 +1801,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 186k out of 64.1m repositories</span>
+                                    <span class="gh">ranked 186k out of 62.9m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">210</div>
                                     </div>
