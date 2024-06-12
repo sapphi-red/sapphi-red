@@ -1529,7 +1529,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="120.59 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="120.9 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1566,12 +1566,12 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     influencer
-                                    <span class="gh">ranked 7.90k out of 138m users</span>
+                                    <span class="gh">ranked 7.89k out of 138m users</span>
                                     <div class="value-wrapper">
-                                        <div class="value">889</div>
+                                        <div class="value">890</div>
                                     </div>
                                 </div>
-                                <div class="text">Followed by 889 users</div>
+                                <div class="text">Followed by 890 users</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
