@@ -1785,7 +1785,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 460k out of 213m repositories</span>
+                                    <span class="gh">ranked 460k out of 212m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">27</div>
                                     </div>
@@ -1803,7 +1803,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="39.409409409409406 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="39.56456456456457 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1826,12 +1826,12 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 169k out of 213m repositories</span>
+                                    <span class="gh">ranked 168k out of 212m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">255</div>
+                                        <div class="value">256</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining a repository with 255 stars</div>
+                                <div class="text">Maintaining a repository with 256 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
