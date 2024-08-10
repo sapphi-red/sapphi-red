@@ -1586,7 +1586,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="95.58333333333334 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="96.1 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g fill="none" fill-rule="evenodd">
@@ -1606,10 +1606,10 @@
                                     <span class="prefix">Great</span>
                                     chatter
                                     <div class="value-wrapper">
-                                        <div class="value">385</div>
+                                        <div class="value">386</div>
                                     </div>
                                 </div>
-                                <div class="text">Participated in discussions 385 times</div>
+                                <div class="text">Participated in discussions 386 times</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -1786,7 +1786,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="40.4954954954955 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="40.65065065065065 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1811,10 +1811,10 @@
                                     Maintainer
                                     <span class="gh">ranked 166k out of 217m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">262</div>
+                                        <div class="value">263</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining a repository with 262 stars</div>
+                                <div class="text">Maintaining a repository with 263 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
