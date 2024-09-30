@@ -1534,7 +1534,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="130.82 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="131.13 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1571,12 +1571,12 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     influencer
-                                    <span class="gh">ranked 8.07k out of 145m users</span>
+                                    <span class="gh">ranked 8.05k out of 145m users</span>
                                     <div class="value-wrapper">
-                                        <div class="value">922</div>
+                                        <div class="value">923</div>
                                     </div>
                                 </div>
-                                <div class="text">Followed by 922 users</div>
+                                <div class="text">Followed by 923 users</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -1810,7 +1810,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 436k out of 220m repositories</span>
+                                    <span class="gh">ranked 436k out of 223m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">29</div>
                                     </div>
@@ -1851,7 +1851,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 163k out of 220m repositories</span>
+                                    <span class="gh">ranked 163k out of 223m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">274</div>
                                     </div>
