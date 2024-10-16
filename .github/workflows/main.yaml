@@ -46,7 +46,7 @@ jobs:
 
           plugin_rss: yes
           plugin_rss_limit: 4
-          plugin_rss_source: https://trap.jp/author/sappi_red/rss/
+          plugin_rss_source: https://green.sapphi.red/feed.rss
 
       - name: Metrics 2
         uses: lowlighter/metrics@latest
