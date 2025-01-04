@@ -1382,7 +1382,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 63.1k out of 147m users</span>
+                                    <span class="gh">ranked 63.1k out of 151m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">187</div>
                                     </div>
@@ -1549,7 +1549,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     influencer
-                                    <span class="gh">ranked 7.58k out of 147m users</span>
+                                    <span class="gh">ranked 7.59k out of 151m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">1012</div>
                                     </div>
@@ -1567,7 +1567,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="142.69299999999998 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="142.755 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1592,10 +1592,10 @@
                                     maintainer
                                     <span class="gh">ranked 4.24k out of 234m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">9603</div>
+                                        <div class="value">9605</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining a repository with 9603 stars</div>
+                                <div class="text">Maintaining a repository with 9605 stars</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
