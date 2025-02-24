@@ -1524,7 +1524,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="6.096666666666667 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="5.993333333333334 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1561,12 +1561,12 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     influencer
-                                    <span class="gh">ranked 7.38k out of 157m users</span>
+                                    <span class="gh">ranked 7.39k out of 157m users</span>
                                     <div class="value-wrapper">
-                                        <div class="value">1059</div>
+                                        <div class="value">1058</div>
                                     </div>
                                 </div>
-                                <div class="text">Followed by 1059 users</div>
+                                <div class="text">Followed by 1058 users</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -1579,7 +1579,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.9243333333333332 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.945 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1602,12 +1602,12 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     maintainer
-                                    <span class="gh">ranked 3.99k out of 238m repositories</span>
+                                    <span class="gh">ranked 3.99k out of 240m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">10283</div>
+                                        <div class="value">10285</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining a repository with 10283 stars</div>
+                                <div class="text">Maintaining a repository with 10285 stars</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -1806,7 +1806,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 388k out of 238m repositories</span>
+                                    <span class="gh">ranked 388k out of 240m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">34</div>
                                     </div>
