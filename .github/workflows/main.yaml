@@ -1,7 +1,7 @@
 name: Metrics
 on:
   schedule:
-    - cron: '0 0/3 * * *'
+    - cron: '0 0 * * *'
   workflow_dispatch:
   push:
     branches:
@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Metrics 1
-        uses: lowlighter/metrics@latest
+        uses: gh-metrics/metrics@master
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
@@ -24,6 +24,7 @@ jobs:
           config_twemoji: yes
           repositories_skipped: piscon2019,piscon2019-2,go-traq
           use_prebuilt_image: yes
+          plugins_errors_fatal: true
 
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
@@ -49,7 +50,7 @@ jobs:
           plugin_rss_source: https://green.sapphi.red/feed.rss
 
       - name: Metrics 2
-        uses: lowlighter/metrics@latest
+        uses: gh-metrics/metrics@master
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
@@ -62,6 +63,7 @@ jobs:
           config_twemoji: yes  
           repositories_skipped: piscon2019,piscon2019-2,go-traq
           use_prebuilt_image: yes
+          plugins_errors_fatal: true
 
           plugin_habits: yes
           plugin_habits_charts: yes
