@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Metrics 1
-        uses: gh-metrics/metrics@727b269a0e1af233e88b535a7555bb736e54b4b2 # master
+        uses: gh-metrics/metrics@4b1c3eb0b801b3fe1821352c4f5f9329d09f4ebf # master
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
@@ -50,7 +50,7 @@ jobs:
           plugin_rss_source: https://green.sapphi.red/feed.rss
 
       - name: Metrics 2
-        uses: gh-metrics/metrics@727b269a0e1af233e88b535a7555bb736e54b4b2 # master
+        uses: gh-metrics/metrics@4b1c3eb0b801b3fe1821352c4f5f9329d09f4ebf # master
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
