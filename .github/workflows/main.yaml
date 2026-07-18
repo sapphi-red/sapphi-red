@@ -40,10 +40,10 @@ jobs:
 
           plugin_lines: yes
 
-          plugin_notable: yes
-          plugin_notable_filter: stars:>100
-          plugin_notable_from: organization
-          plugin_notable_indepth: yes
+          # plugin_notable: yes
+          # plugin_notable_filter: stars:>100
+          # plugin_notable_from: organization
+          # plugin_notable_indepth: yes
 
           plugin_rss: yes
           plugin_rss_limit: 4
